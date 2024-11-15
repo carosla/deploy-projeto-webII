@@ -118,7 +118,7 @@ O código-fonte React está organizado em pastas e arquivos de forma modular.
 
 ## ✒️ Autores
 
-* **Aluna e desenvolvedora** -  [Ana Carolina Neias](linkedin.com/in/anacarolinaneias/)
+* **Aluna e desenvolvedora** -  [Ana Carolina Neias](https://www.linkedin.com/in/anacarolinaneias/)
 
 ## 🔗 Link de acesso ao projeto
 Acesse o site pelo link abaixo:\
