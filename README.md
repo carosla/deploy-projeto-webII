@@ -82,7 +82,7 @@ yarn add chart.js@^4.4.6
 #### `build`
 ```
 cd backend
-npm install -g win-node-env
+npm run build
 ```
 
 #### `prod`
